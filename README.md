@@ -1,4 +1,4 @@
 hylafax
 ==========
 
-Installs HylaFax client.
+Installs HylaFax client and server.
