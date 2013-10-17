@@ -1,7 +1,7 @@
 name 'hylafax'
 
 maintainer 'OptimisCorp., Inc.'
-maintainer_email  'ops+cookbooks@optimiscorp.com'
+maintainer_email 'ops+cookbooks@optimiscorp.com'
 
 license 'Apache 2.0'
 
